@@ -1,3 +1,7 @@
+# OSX ignore
+.DS_Store
+
+# Python ignores
 *.py[cod]
 
 # C extensions
